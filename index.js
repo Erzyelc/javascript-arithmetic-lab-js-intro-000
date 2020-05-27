@@ -8,10 +8,12 @@ function subtract(a, b){
   return result2;
 }
 
-function multiple(){
-
+function multiple(a ,b){
+  let result3 = a * b;
+  return result3;
 }
 
-function divide(){
-
+function divide(a, b){
+  let result4 = a / b;
+  return result4;
 }
