@@ -3,8 +3,9 @@ function add(a,b){
   return result;
 }
 
-function subtract(){
-
+function subtract(a, b){
+  let result2 = a - b;
+  return result2;
 }
 
 function multiple(){
