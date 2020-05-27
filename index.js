@@ -8,7 +8,7 @@ function subtract(a, b){
   return result2;
 }
 
-function multiple(a, b){
+function multiply(a, b){
   let result3 = a * b;
   return result3;
 }
