@@ -19,11 +19,11 @@ function divide(a, b){
 }
 
 function increment(n){
-  let incremented = n++;
-  return incremented;
+  n++;
+  return n;
 }
 
 function decrement(n){
-  let decremented = n--;
-  return decremented;
+  n--;
+  return n;
 }
